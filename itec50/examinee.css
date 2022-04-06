@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman';
+    background-color: black;
+    color: white;
+}
+body{
+    font-size: large;
+    margin-left: 10px;
+}
+h1{
+    color: yellow;
+    text-align: center;
+    padding: 10px 10px;
+
+}
+img{
+    border-style: solid;
+    border-color: blue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+div.box{
+    text-align: center;
+}
+.container .title{
+    font-size: x-large;
+    font-weight: 500;
+    padding: 0;
+}
+.button{
+   width: 100px;
+   height: 20px;
+   font-size: 15px;
+   cursor: pointer;
+}
+
+table{
+    align-items: center;
+}
+p{
+    font-size: large;
+    padding: 10px;
+}
+.marquee{
+    font-size: small;
+}
+    
